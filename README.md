@@ -7,8 +7,7 @@ I leveraged SQL to conduct a comprehensive analysis, covering a range of queries
 
 Basic:
 
-1.Retrieve the total number of orders placed.
-
+1.Retrieve the total number of orders placed.\
 2.Calculate the total revenue generated from pizza sales.
 
 3.Identify the highest-priced pizza.
