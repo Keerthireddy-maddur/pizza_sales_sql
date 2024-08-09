@@ -8,9 +8,7 @@ I leveraged SQL to conduct a comprehensive analysis, covering a range of queries
 Basic Queries:
 
 1.Retrieving the total number of orders placed.
-
 2.Calculating the total revenue generated from pizza sales.
-
 3.Identifying the highest-priced pizza.
 4.Determining the most common pizza size ordered.
 5.Listing the top 5 most ordered pizza types along with their quantities.
