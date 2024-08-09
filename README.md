@@ -12,6 +12,7 @@ Basic Queries:
 3.Identifying the highest-priced pizza.
 4.Determining the most common pizza size ordered.
 5.Listing the top 5 most ordered pizza types along with their quantities.
+
 Intermediate Queries:
 
 1.Joining tables to find the total quantity of each pizza category ordered.
@@ -19,6 +20,7 @@ Intermediate Queries:
 3.Joining relevant tables to assess the category-wise distribution of pizzas.
 4.Grouping orders by date to calculate the average number of pizzas ordered per day.
 5.Identifying the top 3 most ordered pizza types based on revenue.
+
 Advanced Queries:
 
 1.Calculating the percentage contribution of each pizza type to total revenue.
