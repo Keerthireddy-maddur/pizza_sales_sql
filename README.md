@@ -7,21 +7,22 @@ In this pizza sales analysis project, I leveraged SQL to conduct a comprehensive
 
 Basic Queries:
 
-Retrieving the total number of orders placed.
-Calculating the total revenue generated from pizza sales.
-Identifying the highest-priced pizza.
-Determining the most common pizza size ordered.
-Listing the top 5 most ordered pizza types along with their quantities.
+1.Retrieving the total number of orders placed.
+2.Calculating the total revenue generated from pizza sales.
+3.Identifying the highest-priced pizza.
+4.Determining the most common pizza size ordered.
+5.Listing the top 5 most ordered pizza types along with their quantities.
 Intermediate Queries:
 
-Joining tables to find the total quantity of each pizza category ordered.
-Analyzing the distribution of orders by hour of the day.
-Joining relevant tables to assess the category-wise distribution of pizzas.
-Grouping orders by date to calculate the average number of pizzas ordered per day.
-Identifying the top 3 most ordered pizza types based on revenue.
+1.Joining tables to find the total quantity of each pizza category ordered.
+2.Analyzing the distribution of orders by hour of the day.
+3.Joining relevant tables to assess the category-wise distribution of pizzas.
+4.Grouping orders by date to calculate the average number of pizzas ordered per day.
+5.Identifying the top 3 most ordered pizza types based on revenue.
 Advanced Queries:
 
-Calculating the percentage contribution of each pizza type to total revenue.
-Analyzing cumulative revenue generated over time.
-Determining the top 3 most ordered pizza types based on revenue for each pizza category.
+1.Calculating the percentage contribution of each pizza type to total revenue.
+2.Analyzing cumulative revenue generated over time.
+3.Determining the top 3 most ordered pizza types based on revenue for each pizza category.
+
 These methods provided valuable insights into optimizing business operations, enhancing understanding of sales trends, and informing strategic decisions.
